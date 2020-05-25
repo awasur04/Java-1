@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8180caae-997d-4541-99d4-e911380205ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZrT67l6vAOt57VY5lfYqxJssYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../part01-Part01_03.OnceUponATime" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8180caae-997d-4541-99d4-e911380205ae" name="Default Changelist" comment="" />
+      <created>1585596034251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585596034251</updated>
+      <workItem from="1585596037440" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585596116153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596116153" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1585596244157">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596244157" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1585596245200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596245200" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1585596245200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596245200" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1585596245200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596245200" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1585596245200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1585596245200" />
+  </component>
+</project>

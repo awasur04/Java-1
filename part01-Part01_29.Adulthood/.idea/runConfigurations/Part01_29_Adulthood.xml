@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_29.Adulthood" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Adulthood" />
+    <module name="Part01_29.Adulthood" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
