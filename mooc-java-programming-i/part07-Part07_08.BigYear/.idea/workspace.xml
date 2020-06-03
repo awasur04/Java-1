@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3aaa8c02-3c25-47b5-89dd-7ffdc349ed01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/Part07_06.GradeStatistics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_06.GradeStatistics/src/test/java/GradeStatisticsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_07.RecipeSearch/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_07.RecipeSearch/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_07.RecipeSearch/recipes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_07.RecipeSearch/src/main/java/RecipeSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_07.RecipeSearch/src/test/java/RecipeSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_08.BigYear/.tmcproject.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_08.BigYear/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_08.BigYear/src/main/java/mainProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part07-Part07_08.BigYear/src/test/java/BirdDatabaseTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cpJgN10EnzMd4lZsX4FiSYHl7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3aaa8c02-3c25-47b5-89dd-7ffdc349ed01" name="Default Changelist" comment="" />
+      <created>1591219711315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591219711315</updated>
+      <workItem from="1591219714299" duration="1975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591220978399">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591220978399" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1591221455187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591221455187" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1591221455186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591221455186" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1591221455186">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591221455186" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1591221455187">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591221455187" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1591221695974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1440.0.1440.860@0.0.1920.1080" timestamp="1591221695974" />
+  </component>
+</project>
